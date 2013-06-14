@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Glimpse.ClaimsInspector")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+//[assembly: AssemblyCompany("Microsoft")]
 [assembly: AssemblyProduct("Glimpse.ClaimsInspector")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2013")]
+//[assembly: AssemblyCopyright("Copyright © Microsoft 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
